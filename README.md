@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Replace YOUR_OPENAI_API_KEY in the code with your actual OpenAI API key.
 
 ## Usage 
-The English Language Tutor provides the following funationalities
+The English language tutoring chatbot provides the following funationalities
 - Provide user input through audio and text.
 - The system evaluates pronunciation, completeness, fluency, and pitch.
 - Engage in contextual chatbot conversations.
