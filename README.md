@@ -52,7 +52,7 @@ To interact with the chatbot through audio input through your microphone set the
 ```python
 python english_tutor_chatbot_mic.py
 ```
-In the above english_tutor_chatbot_mic.py file
+In the above `english_tutor_chatbot_mic.py` file
 - The chatbot prompts the user to select a role for the conversation.
 - Users input text for pronunciation practice.
 - The chatbot pronounces the user's input, emphasizing correct pronunciation.
