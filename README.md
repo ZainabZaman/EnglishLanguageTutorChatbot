@@ -30,7 +30,7 @@ Ensure you have the necessary dependencies installed by running the following co
 ```bash
 pip install -r requirements.txt
 ```
-Replace YOUR_OPENAI_API_KEY in the code with your actual OpenAI API key.
+Replace YOUR_OPENAI_API_KEY in the code with your OpenAI API key and 'YOUR_AZURE_SPEECH_STUDIO_API_KEY' with your azure speech studio key..
 
 ## Usage 
 The English language tutoring chatbot provides the following funationalities
