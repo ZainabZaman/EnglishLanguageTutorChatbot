@@ -34,13 +34,13 @@ Replace YOUR_OPENAI_API_KEY in the code with your actual OpenAI API key.
 
 ## Usage 
 The English Language Tutor provides the following funationalities
-- Provide user input through audio.
+- Provide user input through audio and text.
 - The system evaluates pronunciation, completeness, fluency, and pitch.
 - Engage in contextual chatbot conversations.
 - Chatbot recognizes and responds to user names.
 - The system identifies mispronounced words and provides feedback.
 
-To interact with the language tutoring chatbot through audio files set your selected role in the `option` variable and your innput in the `user_input_audio` variable and run the following command 
+To interact with the language tutoring chatbot through audio files set your selected role in the `option` variable and your input in the `user_input_audio` variable and run the following command 
 ```python
 python english_tutor_chatbot_while_git.py
 ```
