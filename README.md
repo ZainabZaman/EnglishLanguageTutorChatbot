@@ -16,12 +16,12 @@ This project integrates a chatbot with an English Language Tutor, providing user
 ## Options 
 Choose from different chatbot contexts:
 
-- Professional event
-- Medical intern-patient conversation
-- Job interview
-- Coffee break with a friend
-- Airline assistant-client conversation
-- Event planner-client conversation (lively, professional, and brief)
+- `Option_01`: Professional event
+- `Option_02`: Medical intern-patient conversation
+- `Option_03`: Job interview
+- `Option_04`: Coffee break with a friend
+- `Option_05`: Airline assistant-client conversation
+- `Option_06`: Event planner-client conversation (lively, professional, and brief)
 
 ## Dependencies
 
