@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project integrates a chatbot with an English Language Tutor, providing users with language tutoring features, including pronunciation assessment, fluency evaluation, pitch analysis, mispronunced words. The chatbot is capable of engaging in conversations based on different contexts, enhancing the user experience.
+This project integrates a chatbot with an English Language Tutor, providing users with language tutoring features, including pronunciation assessment, fluency evaluation, pitch analysis, mispronunced words correction. The chatbot is capable of engaging in conversations based on different contexts, enhancing the user experience.
 
 ## Features
 
@@ -10,6 +10,7 @@ This project integrates a chatbot with an English Language Tutor, providing user
 - Fluency evaluation
 - Pitch analysis
 - Contextual chatbot interaction
+- Mispronounced words recognition and correction
 - Name recognition and personalization
 
 ## Options 
@@ -32,13 +33,14 @@ pip install -r requirements.txt
 Replace YOUR_OPENAI_API_KEY in the code with your actual OpenAI API key.
 
 ## Usage 
+The English Language Tutor provides the following funationalities
 - Provide user input through audio.
 - The system evaluates pronunciation, completeness, fluency, and pitch.
 - Engage in contextual chatbot conversations.
 - Chatbot recognizes and responds to user names.
 - The system identifies mispronounced words and provides feedback.
 
-To interact with the language tutoring chatbot set your selected role in the `option` variable and your innput in the `user_input_audio` variable and run the following command 
+To interact with the language tutoring chatbot through audio files set your selected role in the `option` variable and your innput in the `user_input_audio` variable and run the following command 
 ```python
 python english_tutor_chatbot_while_git.py
 ```
